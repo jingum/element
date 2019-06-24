@@ -1,6 +1,7 @@
 {
-  "name": "element-ui",
+  "name": "element-ui-jingum",
   "version": "2.9.2",
+  "private":false,
   "description": "A Component Library for Vue.js.",
   "main": "lib/element-ui.common.js",
   "files": [
@@ -43,7 +44,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:ElemeFE/element.git"
+    "url": "git@github.com:jingum/element.git"
   },
   "homepage": "http://element.eleme.io",
   "keywords": [
