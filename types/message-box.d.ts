@@ -168,7 +168,7 @@ declare module 'vue/types/vue' {
     $alert: ElMessageBoxShortcutMethod
 
     /** Show a confirm message box */
-    $confirm: ElMessageBoxShortcutMethod
+    $xconfirm: ElMessageBoxShortcutMethod
 
     /** Show a prompt message box */
     $prompt: ElMessageBoxShortcutMethod
