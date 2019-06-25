@@ -1,6 +1,6 @@
 {
   "name": "element-ui-jingum",
-  "version": "2.9.3",
+  "version": "20.9.3",
   "private":false,
   "description": "A Component Library for Vue.js.",
   "main": "lib/element-ui-jingum.common.js",
