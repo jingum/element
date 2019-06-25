@@ -105,10 +105,10 @@
   </div>
 </template>
 <script>
-  import emitter from 'element-ui/src/mixins/emitter';
-  import Migrating from 'element-ui/src/mixins/migrating';
+  import emitter from 'element-ui-jingum/src/mixins/emitter';
+  import Migrating from 'element-ui-jingum/src/mixins/migrating';
   import calcTextareaHeight from './calcTextareaHeight';
-  import merge from 'element-ui/src/utils/merge';
+  import merge from 'element-ui-jingum/src/utils/merge';
 
   export default {
     name: 'ElInput',

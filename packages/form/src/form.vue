@@ -7,7 +7,7 @@
   </form>
 </template>
 <script>
-  import objectAssign from 'element-ui/src/utils/merge';
+  import objectAssign from 'element-ui-jingum/src/utils/merge';
 
   export default {
     name: 'ElForm',

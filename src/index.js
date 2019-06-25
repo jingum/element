@@ -80,8 +80,8 @@ import InfiniteScroll from '../packages/infinite-scroll/index.js';
 import PageHeader from '../packages/page-header/index.js';
 import CascaderPanel from '../packages/cascader-panel/index.js';
 import Avatar from '../packages/avatar/index.js';
-import locale from 'element-ui/src/locale';
-import CollapseTransition from 'element-ui/src/transitions/collapse-transition';
+import locale from 'element-ui-jingum/src/locale';
+import CollapseTransition from 'element-ui-jingum/src/transitions/collapse-transition';
 
 const components = [
   Pagination,

@@ -1,4 +1,4 @@
-export * from './element-ui'
+export * from './element-ui-jingum'
 
-import * as ElementUI from './element-ui'
+import * as ElementUI from './element-ui-jingum'
 export default ElementUI
